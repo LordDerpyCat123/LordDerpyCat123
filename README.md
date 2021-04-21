@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LordDerpyCat123, I'm 15 and want to work with computers
+- 👀 I’m interested in anything programming related
+- 🌱 I’m currently learning assembly vulnerabilities(microcorruption.com)
+- 💞️ I’m looking to collaborate on anything, couldn't give a flying fuck
+- 📫 How to reach me alfie_gunn@outlook.com
