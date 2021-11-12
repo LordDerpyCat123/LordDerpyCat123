@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LordDerpyCat123, I'm 15 and want to work with computers
+- 👋 Hi, I’m @LordDerpyCat123, I'm 16 and want to work with computers
 - 👀 I’m interested in anything programming related
 - 🌱 I’m currently learning assembly vulnerabilities(microcorruption.com)
 - 💞️ I’m looking to collaborate on anything, couldn't give a flying fuck
